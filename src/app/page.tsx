@@ -1,5 +1,4 @@
 import { title, subtitle } from '@/components/primitives';
-import Image from 'next/image'
 
 export default function Home() {
 	return (
